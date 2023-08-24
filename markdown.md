@@ -1,1 +1,3 @@
-Saturn er den sjette planet fra solen i vores solsystem. Det er den næststørste planet i solsystemet efter Jupiter. Saturn kendes på sine markante ringe, som består af utallige små is- og stenpartikler. Tidligere mente man, at dette ringsystem var noget enestående for Saturn, men det har senere vist sig at både Jupiter, Uranus og Neptun har tilsvarende, men langtfra så markante ringsystemer. Ved planetens nordlige pol befinder sig et fænomen kaldt Saturns heksagon.
+Saturn er den sjette planet fra solen i vores solsystem. Det er den næststørste planet i solsystemet efter Jupiter. Saturn kendes på sine markante ringe, som består af utallige små is- og stenpartikler. Tidligere mente man, at 
+
+dette ringsystem var noget enestående for Saturn, men det har senere vist sig at både Jupiter, Uranus og Neptun har tilsvarende, men langtfra så markante ringsystemer. Ved planetens nordlige pol befinder sig et fænomen kaldt Saturns heksagon.
